@@ -1,0 +1,11 @@
+ligne de commande de clone 
+
+$ git clone sur le lien du repository du Github
+
+$ git status
+
+$ git commit
+
+$ git add
+
+$ git push
